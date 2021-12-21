@@ -4,7 +4,4 @@ add= int(a) + int(b)
 diff= int(a) - int(b)
 prod= int(a) * int(b)
 div= int(a) / int(b)
-print('''The sum ={0}
-The differance={1}
-The Product={2}
-The Quotient={3}'''. format(add, diff, prod, div))
+
